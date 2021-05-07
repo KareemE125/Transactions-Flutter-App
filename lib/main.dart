@@ -3,8 +3,9 @@ import 'package:flutter/services.dart';
 import 'package:max_course/homePage.dart';
 
 void main() {
-  runApp(MyApp());
+  WidgetsFlutterBinding.ensureInitialized();
   SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp,DeviceOrientation.portraitDown]);
+  runApp(MyApp());
 }
 class MyApp extends StatelessWidget {
   @override
