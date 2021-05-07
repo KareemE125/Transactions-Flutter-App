@@ -1,6 +1,12 @@
-# max_course
+# Transactions-Flutter-App
+
+You can use this app to track your transactions and keep your eye on every week transaction variations through the week chart.
+
+
+# Flutter App
 
 A new Flutter application.
+
 
 ## Getting Started
 
