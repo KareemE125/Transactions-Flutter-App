@@ -1,6 +1,6 @@
 # Transactions-Flutter-App
 
-You can use this app to track your transactions and keep your eye on every week transaction variations through the week chart.
+You can use this app to track your daily transactions within the current week and keep your eye on the variations percentages of your daily transactions through the week chart.
 
 
 # Flutter App
